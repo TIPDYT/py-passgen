@@ -1,2 +1,4 @@
 # py-passgen
-A simple Password Generator made in CPython
+A simple Password Generator made in CPython.
+
+# **Enjoy :)**
